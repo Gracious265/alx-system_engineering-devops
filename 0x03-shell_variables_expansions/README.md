@@ -1,1 +1,1 @@
-This project will tackle shell varibles and expansions
+This project will tackle variables and expansions
