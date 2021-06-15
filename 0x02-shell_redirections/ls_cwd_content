@@ -1,2 +1,20 @@
 -rw-r--r--  1 Gracious  staff  0 Jun 15 17:45 ls_cwd_content
 -rw-r--r--  1 Gracious  staff  61 Jun 15 17:46 ls_cwd_content
+-rw-r--r--  1 Gracious  staff  123 Jun 15 17:46 ls_cwd_content
+-rw-r--r--  1 Gracious  staff  186 Jun 15 17:54 ls_cwd_content
+total 104
+drwxr-xr-x  15 Gracious  staff  510 Jun 15 17:45 .
+drwxr-xr-x   7 Gracious  staff  238 Jun 14 19:17 ..
+-rwxr--r--   1 Gracious  staff   32 Jun 14 17:47 0-hello_world
+-rwxr--r--   1 Gracious  staff   28 Jun 15 17:06 1-confused_smiley
+-rwxr--r--   1 Gracious  staff   28 Jun 14 18:27 2-hellofile
+-rwxr--r--   1 Gracious  staff   40 Jun 14 18:47 3-twofiles
+-rwxr--r--   1 Gracious  staff   31 Jun 14 19:13 4-lastlines
+-rwxr--r--   1 Gracious  staff   30 Jun 15 17:11 5-firstlines
+-rwxr--r--   1 Gracious  staff   40 Jun 15 17:14 6-third_line
+-rwxr--r--   1 Gracious  staff  109 Jun 14 20:19 7-file
+-rwxr--r--   1 Gracious  staff   38 Jun 15 17:59 8-cwd_state
+-rw-r--r--   1 Gracious  staff   56 Jun 14 17:49 README.md
+-rw-r--r--   1 Gracious  staff   17 Jun 14 20:20 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 Gracious  staff  800 Jun 14 19:21 iacta
+-rw-r--r--   1 Gracious  staff  249 Jun 15 17:56 ls_cwd_content
